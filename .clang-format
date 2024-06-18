@@ -3,7 +3,7 @@ Language: Proto
 BasedOnStyle: Google
 IndentWidth: 2
 ColumnLimit: 0
-AlignConsecutiveAssignments: true
+AlignConsecutiveAssignments:false
 AlignConsecutiveDeclarations: true
 SpacesInSquareBrackets: true
 ReflowComments:  true
